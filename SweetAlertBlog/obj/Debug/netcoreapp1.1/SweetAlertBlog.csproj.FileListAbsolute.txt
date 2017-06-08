@@ -1,0 +1,9 @@
+C:\Users\Compiler\documents\visual studio 2017\Projects\SweetAlertBlog\SweetAlertBlog\bin\Debug\netcoreapp1.1\SweetAlertBlog.deps.json
+C:\Users\Compiler\documents\visual studio 2017\Projects\SweetAlertBlog\SweetAlertBlog\bin\Debug\netcoreapp1.1\SweetAlertBlog.runtimeconfig.json
+C:\Users\Compiler\documents\visual studio 2017\Projects\SweetAlertBlog\SweetAlertBlog\bin\Debug\netcoreapp1.1\SweetAlertBlog.runtimeconfig.dev.json
+C:\Users\Compiler\documents\visual studio 2017\Projects\SweetAlertBlog\SweetAlertBlog\bin\Debug\netcoreapp1.1\SweetAlertBlog.dll
+C:\Users\Compiler\documents\visual studio 2017\Projects\SweetAlertBlog\SweetAlertBlog\bin\Debug\netcoreapp1.1\SweetAlertBlog.pdb
+C:\Users\Compiler\documents\visual studio 2017\Projects\SweetAlertBlog\SweetAlertBlog\obj\Debug\netcoreapp1.1\SweetAlertBlog.csprojResolveAssemblyReference.cache
+C:\Users\Compiler\documents\visual studio 2017\Projects\SweetAlertBlog\SweetAlertBlog\obj\Debug\netcoreapp1.1\SweetAlertBlog.AssemblyInfo.cs
+C:\Users\Compiler\documents\visual studio 2017\Projects\SweetAlertBlog\SweetAlertBlog\obj\Debug\netcoreapp1.1\SweetAlertBlog.dll
+C:\Users\Compiler\documents\visual studio 2017\Projects\SweetAlertBlog\SweetAlertBlog\obj\Debug\netcoreapp1.1\SweetAlertBlog.pdb
